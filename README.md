@@ -18,3 +18,4 @@ Hi, I am Jai Spoorthi, a B.Tech Computer Science student specializing in Artific
 Skills: Python, C, SQL, Data Structures and Algorithms, Git, GitHub, React.
 Projects: Personal Portfolio Website, AI and Data Science Projects, and Python Practice Projects.
 ## Projects
+### Pull Request Change
